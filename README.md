@@ -1,4 +1,4 @@
-# Sales-Customer-Dashboard-
+# Sales-Customer-Dashboard
 # 📊 Sales & Customer Performance Dashboard (Tableau)
 
 ## 🧠 Overview
