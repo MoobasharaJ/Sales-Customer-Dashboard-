@@ -92,7 +92,7 @@ Based on that selection, the dashboard compares current year performance with th
 
 ## 🔗 Live Dashboard
 
-[Tableau Public Dashboard Link](https://public.tableau.com/app/profile/moobashara.jawed/viz/SalesCustomerDashboard_17739473770430/SalesDashboard)
+[Sales & Customer Dashboard (Tableau Public)](https://public.tableau.com/app/profile/moobashara.jawed/viz/SalesCustomerDashboard_17739473770430/SalesDashboard)
 
 ---
 
@@ -115,6 +115,3 @@ sales-customer-dashboard/
 
 ---
 
-
-
----
